@@ -24,7 +24,7 @@ Este proyecto es una plataforma para ayudar a organizaciones no lucrativas a org
 1. Clona el repositorio:
 
    ```bash
-   git clone https://github.com/o0Haise0o/plataforma-voluntariado.git
+   git clone https://github.com/o0Haise0o/plataforma-voluntariado2.git
    cd plataforma-voluntariado
 Crea un entorno virtual (opcional pero recomendado):
 
